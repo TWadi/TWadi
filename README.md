@@ -1,6 +1,6 @@
 # Hi, I'm Wadi 👋
 
-Associate Embedded System Software Testing at **Expleo Germany**, working on the quality of automotive software. I write C and C++ for embedded systems and control, and I contribute to open-source projects in that space.
+Associate Embedded System Software Testing at **Expleo Germany**, working on the quality of automotive software. I write C and C++ for embedded systems and control, contribute to open-source projects in that space, and co-founded [AI Engineering Arena](https://github.com/TWadi/ai-engineering-arena), a free platform for learning AI engineering.
 
 - 📄 First author of a paper on architecture conformance in automotive software, accepted at **TAV-53**
 - 🛰️ Open-source contributor to **NASA JPL's F´** flight software framework
@@ -33,10 +33,30 @@ Control toolbox for microcontrollers: PID with anti-windup, Tustin discretisatio
 **[AI Engineering Arena](https://github.com/TWadi/ai-engineering-arena)** · co-founder · TypeScript · [live](https://twadi.github.io/ai-engineering-arena/)<br>
 A free, open-source (Apache 2.0) platform for learning AI engineering, co-founded with [Ghassen](https://github.com/GhassenJamoussi99). A 40-week roadmap from a RAG course to production LLM apps and agents, with quizzes, live quiz duels, code races and an in-browser AI lab.
 
+## Certificates
+
+All from Udemy; each title links to the certificate.
+
+**Embedded and hardware**
+- [Mastering Microcontroller: STM32-LTDC, LCD-TFT, LVGL (MCU3)](https://www.udemy.com/certificate/UC-40928709-fa68-43c8-9adc-05f5e54e742e/) · 2026
+- [The Complete Electronics Course: Analog Hardware Design](https://www.udemy.com/certificate/UC-26b0d3db-efca-4a20-9fa1-ad78cf0c2bb8/) · 2026
+- [Digital Electronics](https://www.udemy.com/certificate/UC-d2794cd4-489c-43e3-abd8-0b16526be2a4/) · 2026
+- [Computer Architecture and Computer Organization Masterclass](https://www.udemy.com/certificate/UC-19d62937-2563-4ef2-82a1-5592e910888b/) · 2025
+- [8051 Microcontroller Architecture](https://www.udemy.com/certificate/UC-acc6a3c5-4c2e-45a0-9274-43e32d7e7781/) · 2023
+
+**C and C++**
+- [C/C++ Projekte: Make, CMake, Unit Tests und Tooling](https://www.udemy.com/certificate/UC-87eec912-d62f-48bc-bec3-8191897deb91/) · 2026
+- [Qt 6 Core with C++](https://www.udemy.com/certificate/UC-dd68aff8-3f01-498a-b51d-e65a41a7b10d/) · 2026
+- [Le C par la pratique : plus de 100 exercices corrigés](https://www.udemy.com/certificate/UC-7f38f98a-8b35-4751-83b3-66b04e2447f7/) · 2020
+
+**Web**
+- [Formation Complète Développeur Web](https://www.udemy.com/certificate/UC-c60f9f5c-bb6f-4544-9ab2-a56b0310b82e/) · 2020
+
 ## Tools I work with
 
 - **Languages:** C, C++, C#, TypeScript, Python, VHDL
-- **Embedded:** ARM Cortex-M, AVR, FPGA
+- **Embedded:** ARM Cortex-M (STM32), AVR, 8051, FPGA
+- **Frameworks:** Qt 6, LVGL
 - **Build and test:** CMake, GitHub Actions, GoogleTest, Unity, Linux
 - **Software quality:** static analysis, architecture conformance, automotive software testing
 - **AI engineering:** RAG (retrieval-augmented generation), LLM applications
