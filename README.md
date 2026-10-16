@@ -13,6 +13,8 @@ Associate Embedded System Software Testing at **Expleo Germany**, working on the
 **From Static Analysis Findings to a Quality Score: An Architecture Conformance Index for Automotive Software**<br>
 W. Touil, P. Gohil, M. Schmidt, J. Wegener. Accepted at TAV-53, the 53rd workshop of the GI special interest group *Test, Analysis and Verification of Software* (Fachgruppe TAV), 2026.
 
+Architecture-conformance checkers list the dependencies that break architectural rules, but they don't say how good the architecture is overall. The paper introduces the **Architecture Conformance Index (ACI)**, which turns those findings into one score from 0 (severe erosion) to 100 (no violations), and evaluates it on industrial automotive software.
+
 ## Open-source contributions
 
 | Project | Contribution | Status |
