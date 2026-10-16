@@ -52,11 +52,11 @@ All from Udemy; each title links to the certificate.
 **Web**
 - [Formation Complète Développeur Web](https://www.udemy.com/certificate/UC-c60f9f5c-bb6f-4544-9ab2-a56b0310b82e/) · 2020
 
-## Tools I work with
+## Skills
 
 - **Languages:** C, C++, C#, TypeScript, Python, VHDL
 - **Embedded:** ARM Cortex-M (STM32), AVR, 8051, FPGA
-- **Frameworks:** Qt 6, LVGL
-- **Build and test:** CMake, GitHub Actions, GoogleTest, Unity, Linux
+- **RAG:** retrieval-augmented generation for LLM applications
 - **Software quality:** static analysis, architecture conformance, automotive software testing
-- **AI engineering:** RAG (retrieval-augmented generation), LLM applications
+- **Build and test:** CMake, GitHub Actions, GoogleTest, Unity, Linux
+- **Frameworks:** Qt 6, LVGL
