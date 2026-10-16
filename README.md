@@ -5,6 +5,7 @@ Associate Embedded System Software Testing at **Expleo Germany**, working on the
 - 📄 First author of a paper on architecture conformance in automotive software, accepted at **TAV-53**
 - 🛰️ Open-source contributor to **NASA JPL's F´** flight software framework
 - 🧩 Contributor to the **Embedded Template Library** (ETL), a C++ library for microcontrollers
+- 🤖 Co-founder of **[AI Engineering Arena](https://github.com/TWadi/ai-engineering-arena)**, a free, open-source platform for learning AI engineering
 - 🎛️ Author of **[tinyctrl](https://github.com/TWadi/tinyctrl)**, a tested C99 control library for microcontrollers
 - 📍 Berlin · 📫 [LinkedIn](https://www.linkedin.com/in/wadi-touil-117472319/)
 
@@ -29,8 +30,8 @@ Architecture-conformance checkers list the dependencies that break architectural
 **[tinyctrl](https://github.com/TWadi/tinyctrl)** · C99<br>
 Control toolbox for microcontrollers: PID with anti-windup, Tustin discretisation, biquad filters and lead/lag compensators. No dynamic memory, unit tests against SciPy reference data, and CI that builds for GCC, Clang and MSVC and links firmware for Cortex-M0, Cortex-M4F and AVR.
 
-**[AI Engineering Arena](https://github.com/TWadi/ai-engineering-arena)** · TypeScript · [live](https://twadi.github.io/ai-engineering-arena/)<br>
-Built with a friend while we learn AI engineering: XP, quiz duels, code races and an in-browser AI lab.
+**[AI Engineering Arena](https://github.com/TWadi/ai-engineering-arena)** · co-founder · TypeScript · [live](https://twadi.github.io/ai-engineering-arena/)<br>
+A free, open-source (Apache 2.0) platform for learning AI engineering, co-founded with [Ghassen](https://github.com/GhassenJamoussi99). A 40-week roadmap from a RAG course to production LLM apps and agents, with quizzes, live quiz duels, code races and an in-browser AI lab.
 
 ## Tools I work with
 
@@ -38,3 +39,4 @@ Built with a friend while we learn AI engineering: XP, quiz duels, code races an
 - **Embedded:** ARM Cortex-M, AVR, FPGA
 - **Build and test:** CMake, GitHub Actions, GoogleTest, Unity, Linux
 - **Software quality:** static analysis, architecture conformance, automotive software testing
+- **AI engineering:** RAG (retrieval-augmented generation), LLM applications
