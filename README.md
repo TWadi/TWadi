@@ -1,12 +1,17 @@
 # Hi, I'm Wadi 👋
 
-I write C and C++ for embedded systems and control, and I contribute to open-source projects in that space.
+Associate Embedded System Software Testing at **Expleo Germany**, working on the quality of automotive software. I write C and C++ for embedded systems and control, and I contribute to open-source projects in that space.
 
+- 📄 First author of a paper on architecture conformance in automotive software, accepted at **TAV-53**
 - 🛰️ Open-source contributor to **NASA JPL's F´** flight software framework
 - 🧩 Contributor to the **Embedded Template Library** (ETL), a C++ library for microcontrollers
 - 🎛️ Author of **[tinyctrl](https://github.com/TWadi/tinyctrl)**, a tested C99 control library for microcontrollers
-- 🔎 Open to working-student and internship roles in embedded and automotive software
 - 📍 Berlin · 📫 [LinkedIn](https://www.linkedin.com/in/wadi-touil-117472319/)
+
+## Publication
+
+**From Static Analysis Findings to a Quality Score: An Architecture Conformance Index for Automotive Software**<br>
+W. Touil, P. Gohil, M. Schmidt, J. Wegener. Accepted at TAV-53, the 53rd workshop of the GI special interest group *Test, Analysis and Verification of Software* (Fachgruppe TAV), 2026.
 
 ## Open-source contributions
 
@@ -30,3 +35,4 @@ Built with a friend while we learn AI engineering: XP, quiz duels, code races an
 - **Languages:** C, C++, C#, TypeScript, Python, VHDL
 - **Embedded:** ARM Cortex-M, AVR, FPGA
 - **Build and test:** CMake, GitHub Actions, GoogleTest, Unity, Linux
+- **Software quality:** static analysis, architecture conformance, automotive software testing
